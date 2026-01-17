@@ -1,6 +1,19 @@
+# tensorflow==2.15.0
+# pandas 
+# numpy 
+# scikit-learn
+# tensorboard
+# matplotlib
+# streamlit
+# keras
+# gensim
+# nltk
+# spacy
+# en-core-web-sm
+
 tensorflow==2.15.0
-pandas 
-numpy 
+numpy<2.0
+pandas
 scikit-learn
 tensorboard
 matplotlib
@@ -8,5 +21,6 @@ streamlit
 keras
 gensim
 nltk
-spacy
-en-core-web-sm
+spacy==3.8.1
+en-core-web-sm==3.8.0
+
