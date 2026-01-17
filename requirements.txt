@@ -7,3 +7,5 @@ matplotlib
 streamlit
 keras
 gensim
+nltk
+spacy
