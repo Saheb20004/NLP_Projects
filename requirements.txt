@@ -9,4 +9,4 @@ keras
 gensim
 nltk
 spacy
-en-core-web-sm==3.7.1
+en-core-web-sm
